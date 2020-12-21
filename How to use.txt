@@ -1,0 +1,11 @@
+==================================
+-Open "SazInjector"
+-Select type of injection (Manual Recommended)
+-Select a process
+-Click on "Add" and select a .dll file
+-Choose if you want to add settings (Close After Injection, Add Delay...)
+-Press Inject
+==================================
+If you want to support me, you can click on "Credits" and click on "Donate"
+
+/!\ DON'T FORGET TO READ THE "READ.txt" FILE /!\
